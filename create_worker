@@ -1,0 +1,2 @@
+ray start --redis-address $2 
+sleep 3600
